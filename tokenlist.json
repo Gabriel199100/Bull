@@ -1,0 +1,14 @@
+{
+  "name": "Bull Token List",
+  "timestamp": "2025-08-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x03dA3fa851894138ec12FE6167fF0229c1F50F05",
+      "name": "Bull Token",
+      "symbol": "BULL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Gabriel199100/Bull/main/9022e627-eb7e-441d-b2cc-018d882130d6.png"
+    }
+  ]
+}
